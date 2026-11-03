@@ -1,0 +1,9 @@
+# 개인정보나 비공개 자료를 잠시 둘 곳 (저장소에 올라가지 않음)
+비공개/
+# 운영체제·편집기 파일
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+.obsidian/workspace*.json
